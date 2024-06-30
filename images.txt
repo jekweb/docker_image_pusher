@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 openjdk:8-jre-alpine
 portainer/portainer
+msyql
+redis
