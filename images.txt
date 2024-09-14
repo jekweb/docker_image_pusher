@@ -11,4 +11,4 @@ mysql:8.0
 mysql
 redis
 influxdb:2.5.0
-java:8-jre
+java:8
