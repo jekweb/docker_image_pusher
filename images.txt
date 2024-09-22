@@ -16,3 +16,4 @@ alpine
 drillster/drone-volume-cache
 maven:3.8.4
 plugins/docker
+docker:27
