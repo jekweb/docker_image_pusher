@@ -12,3 +12,7 @@ mysql
 redis
 influxdb:2.5.0
 openjdk:8-jre
+alpine
+drillster/drone-volume-cache
+maven:3.8.4
+plugins/docker
