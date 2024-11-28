@@ -18,3 +18,4 @@ maven:3.8.4
 docker
 docker:27
 docker:20
+openjdk:8-jdk
