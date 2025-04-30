@@ -21,3 +21,4 @@ docker:20
 openjdk:8-jdk
 prom/prometheus:latest
 grafana/grafana:latest
+ubuntu:20.04
